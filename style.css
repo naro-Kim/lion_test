@@ -3,6 +3,10 @@ article{
     flex-direction: column;
 }
 
+.btnBack{
+    display: none;
+}
+
 .question{
     display: none;
 }
