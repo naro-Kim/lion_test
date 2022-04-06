@@ -1,0 +1,19 @@
+article{
+    display: flex;
+    flex-direction: column;
+}
+
+.question{
+    display: none;
+}
+
+.result{
+    display: none;
+}
+
+#img{
+    border-radius: 1rem;
+    width: 60%;
+    height: 60%;
+    margin: 0 auto;
+}
