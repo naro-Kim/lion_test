@@ -11,11 +11,23 @@ article{
     display: none;
 }
 
-.kakao_ad{
-    position: absolute;
+.banner{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    width: 40%;
+}
+
+.banner-img{
     width: 100%;
-    bottom: 0px;
-    display: inline-block;
+}
+
+.kakao_ad{
+    position: fixed;
+    bottom:0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
     margin: 0 auto;
 }
 
