@@ -12,6 +12,9 @@ article{
 }
 
 .kakao_ad{
+    position: absolute;
+    bottom: 0px;
+    display: inline-block;
     margin: 0 auto;
 }
 
